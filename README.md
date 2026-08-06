@@ -182,13 +182,24 @@ A JavaScript-based tool for generating developer README files.
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🌱 Growth & Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=misbahsaiyed20&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/misbahsaiyed20&label=Public%20Repos&query=public_repos&color=2E9EF7&style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/misbahsaiyed20&label=Followers&query=followers&color=2E9EF7&style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=misbahsaiyed20&color=2E9EF7&style=for-the-badge&label=Profile+Views)
 
 </div>
+
+- 🌾 Shipped **Seed2Sell**, a full Django marketplace connecting farmers directly with buyers
+- 🛠️ Built **FixMyArea**, a civic-tech platform with geolocation, image uploads & duplicate detection
+- 🤖 Integrated the **Google Gemini API** into a working browser extension (Webpage Summarizer)
+- 🎙️ Delivered a full-stack app with a **Next.js/TypeScript** frontend and a separate backend service
+- 📚 Actively expanding from Django backend work into **AI-integrated** application development
+- 🤝 Open to internships, freelance work, and open-source collaboration
+
+<br/>
 
 <br/>
 
