@@ -179,3 +179,38 @@ A JavaScript tool for generating developer README files.
 - 🏗️ System Design & Backend Architecture
 - 🐳 Docker
 - 🔄 CI/CD
+
+<br/>
+
+## 🌍 Open Source
+
+I'm looking to start contributing to **open-source AI and backend projects** — especially anything involving FastAPI, RAG pipelines, or developer tooling. If you're maintaining something in that space and welcome first-time contributors, I'd love to help out.
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-misbahsaiyed20-181717?style=for-the-badge&logo=github)](https://github.com/misbahsaiyed20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Misba_Saiyed-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/misba-saiyed-954882392/)
+[![Email](https://img.shields.io/badge/Email-misbasaiyed20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misbasaiyed20@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=misbahsaiyed20&color=2E9EF7&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+⭐️ *Thanks for stopping by — feel free to explore MemoryVerse AI and my other repos, or reach out!*
+
+</div>
