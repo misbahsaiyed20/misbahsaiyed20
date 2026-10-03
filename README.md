@@ -2,10 +2,10 @@
 
 <h1>Misba Saiyed</h1>
 
-<p><b>AI/ML + Python backend, built one system at a time.</b></p>
+<p><b>Building AI systems from the backend up.</b></p>
 
 <a href="https://github.com/misbahsaiyed20">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=2E9EF7&center=true&vCenter=true&width=720&height=40&lines=AI%2FML+%2B+Python+backend+engineering;Building+AI+systems+with+FastAPI+and+Next.js;Integrating+Gemini+into+reliable+backend+workflows;Learning+by+building+real+systems" alt="Typing animation: AI/ML and Python backend engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=2E9EF7&center=true&vCenter=true&width=720&height=40&lines=AI%2FML+%2B+Python+backend+engineering;FastAPI+%2B+Next.js+systems+with+AI+inside;Integrating+Gemini+into+reliable+backend+workflows;Learning+by+building+real+systems" alt="Typing animation: AI/ML and Python backend engineering" />
 </a>
 
 <p>BCA Honours &middot; AI &amp; ML major &middot; Gujarat University &middot; 4th year (2023&ndash;2027)</p>
@@ -13,13 +13,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Misba_Saiyed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misba-saiyed-954882392/)
 [![Email](https://img.shields.io/badge/Email-misbasaiyed20@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:misbasaiyed20@gmail.com)
 [![Live demo](https://img.shields.io/badge/Live_demo-HydroLens-000000?style=flat-square&logo=vercel&logoColor=white)](https://hydrolens-silk.vercel.app)
-![Status](https://img.shields.io/badge/Open_to-AI%2FML_%26_backend_internships-2E9EF7?style=flat-square)
 
 </div>
 
 <br/>
 
-I learn by building, and I like systems that show their evidence and admit their limits. That's why HydroLens ships with a limitations section, and why I care more about what happens *around* a model than about the model call itself.
+I learn by building, and I like systems that show their evidence and admit their limits. That's why HydroLens ships with a limitations section, and why I care as much about what happens *around* a model as about the model call itself.
 
 <p align="center">
   <code>input &rarr; model &rarr; validation &rarr; evidence &rarr; confidence &rarr; human review</code>
@@ -35,7 +34,7 @@ I learn by building, and I like systems that show their evidence and admit their
 
 **Applied AI**
 
-Gemini vision and extraction wired into real workflows, with schema-validated output.
+Gemini vision and extraction (a pretrained model, used through its API) wired into real workflows, with schema-validated output.
 
 </td>
 <td width="25%" valign="top">
@@ -49,7 +48,7 @@ FastAPI and Django services, REST APIs, PostgreSQL, SQLAlchemy and Alembic migra
 
 **LLM applications**
 
-Chunking, embeddings, ChromaDB and RAG over a user's own documents.
+Retrieval-augmented Q&amp;A over a user's own documents, built as a hackathon prototype: chunking, embeddings, ChromaDB.
 
 </td>
 <td width="25%" valign="top">
@@ -97,14 +96,15 @@ Citizens submit geo-tagged photos. Gemini vision extracts visible indicators (tu
 ### MemoryVerse AI
 **Certificates, resumes and reports end up scattered. Can they become one searchable record?**
 
-Hackathon build (MemoryVerse AI '26). Uploaded documents are extracted and chunked, Gemini extracts entities and relationships into a PostgreSQL knowledge graph, embeddings go into ChromaDB, and a RAG assistant answers from the user's own documents.
+A hackathon prototype (MemoryVerse AI '26). Uploaded documents go through text extraction and chunking; Gemini extracts entities that are stored as knowledge-graph nodes and edges in PostgreSQL; chunk embeddings go into ChromaDB to support semantic search and a retrieval-augmented assistant.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
 
-**Highlight:** a relational knowledge graph combined with vector retrieval. Cloud deployment and OCR are documented as future work.
+**Highlight:** pairs a relational knowledge-graph model with vector retrieval.
+**Status:** prototype. Cloud deployment, OCR, resume generation and skill-gap analysis are planned, not built.
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/misbahsaiyed20/memoryverse-ai)
 
@@ -114,13 +114,13 @@ Hackathon build (MemoryVerse AI '26). Uploaded documents are extracted and chunk
 ### Webpage Summarizer
 **Summarize the page you're reading without leaving it.**
 
-A browser extension that sends page content to a Python backend, which calls the Gemini API and returns the summary.
+A browser extension that talks to a Python backend, which calls the Gemini API to produce the summary. Practical LLM API integration, not model training.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-**Highlight:** the API key lives on the backend, so the extension never ships a secret.
+**Highlight:** the Gemini API key is configured in the backend's `.env`, not in the extension.
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/misbahsaiyed20/webpage-summarizer)
 
@@ -137,7 +137,7 @@ A browser extension that sends page content to a Python backend, which calls the
 </p>
 
 <p align="center">
-  <sub><b>Backend</b> FastAPI &middot; Django &middot; SQLAlchemy &middot; Pydantic &middot; Alembic &nbsp;|&nbsp; <b>AI</b> Gemini API &middot; RAG &middot; embeddings &middot; ChromaDB &nbsp;|&nbsp; <b>Data</b> PostgreSQL &middot; SQLite</sub>
+  <sub><b>Backend</b> FastAPI &middot; Django &middot; SQLAlchemy &middot; Pydantic &middot; Alembic &nbsp;|&nbsp; <b>AI</b> Gemini API &middot; embeddings &middot; ChromaDB &nbsp;|&nbsp; <b>Data</b> PostgreSQL &middot; SQLite</sub>
 </p>
 
 ---
@@ -191,7 +191,7 @@ System design, Docker and CI/CD.
 
 ## Connect
 
-If you build AI or backend products and take interns, I'd like to hear from you.
+I'm open to AI/ML and Python backend internship opportunities. If you build AI or backend products and take interns, I'd like to hear from you.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Misba_Saiyed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misba-saiyed-954882392/)
 [![Email](https://img.shields.io/badge/Email-misbasaiyed20@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:misbasaiyed20@gmail.com)
